@@ -1,2 +1,2 @@
 # Pyant
-## A python/ungly tkinter implementation of the langton ant
+## A python/ugly-tkinter implementation of the langton ant
